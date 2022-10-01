@@ -1,0 +1,18 @@
+{
+  "name": "danglingbutton",
+  "version": "1.0.0",
+  "description": "button which dangles on command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "button",
+    "react-button",
+    "swinging-button",
+    "dangling-button",
+    "uncatchable-button"
+  ],
+  "author": "Muhammad Wasil Islam",
+  "license": "ISC"
+}

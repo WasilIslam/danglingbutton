@@ -1,0 +1,19 @@
+.danglingContainer {
+    position: relative;
+    width: 100%;
+    height: 50px;
+}
+
+button {
+    height: 100%;
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+    background-color: lightgreen;
+    min-width: max-content;
+}
+
+button.invalid {
+    border: 1px solid darkred;
+    background-color: rgba(178, 34, 34, 0.25);
+}
