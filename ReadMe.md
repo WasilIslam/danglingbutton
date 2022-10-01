@@ -2,6 +2,9 @@
 
 The Button uses css to dangle when form inputs are invalid.
 
+![Alt Text](https://media.giphy.com/media/MZ6HOi0G4Xx717qku0/giphy.gif)
+
+
 ## Installation
 
 Use the npm package manager to install danglingbutton.

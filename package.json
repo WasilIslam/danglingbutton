@@ -1,6 +1,6 @@
 {
   "name": "danglingbutton",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "button which dangles on command",
   "main": "index.js",
   "scripts": {
